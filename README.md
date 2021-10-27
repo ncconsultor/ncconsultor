@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ncconsultor
+- 🌱 I’m currently learning about bigdata, react and laravel
+- 📫 How to reach me... A PM here
